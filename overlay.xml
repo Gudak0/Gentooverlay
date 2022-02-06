@@ -1,0 +1,13 @@
+<repositories version="1.0">
+    <repo priority="-900" status="unofficial">
+        <name>Gudako</name>
+        <description>Personal overlay for Gudako</description>
+        <homepage>https://github.com/Gudak0</homepage>
+        <owner>
+            <email>noreply@null.com</email>
+            <name>Gudako</name>
+        </owner>
+        <source type="git">git://github.com/Gudak0/Gentooverlay.git</source>
+        <feed>https://github.com/Gudak0/Gentooverlay/commits/master.atom</feed>
+    </repo>
+</repositories>
