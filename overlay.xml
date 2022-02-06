@@ -1,6 +1,6 @@
 <repositories version="1.0">
     <repo priority="-900" status="unofficial">
-        <name>Gudako</name>
+        <name>gudako</name>
         <description>Personal overlay for Gudako</description>
         <homepage>https://github.com/Gudak0</homepage>
         <owner>
